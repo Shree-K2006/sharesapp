@@ -99,7 +99,7 @@ sharesapp/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/sharesapp.git
+git clone https://github.com/Shree-K2006/sharesapp
 cd sharesapp
 ```
 
@@ -161,7 +161,7 @@ Example:
 
 **Shree K**
 
-* GitHub: https://github.com/yourusername
+* GitHub: https://github.com/shreek484
 
 ---
 
