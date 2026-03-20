@@ -154,6 +154,8 @@ Example:
 * Dashboard view
 * Stock details page
 * Watchlist
+Screen recorder link:
+https://drive.google.com/file/d/1ieFSRk_f3Y6ucgbHxqybDf8pdchLLutB/view?usp=drive_link
 
 ---
 
