@@ -161,7 +161,7 @@ Example:
 
 **Shree K**
 
-* GitHub: https://github.com/shreek484
+* GitHub: https://github.com/Shree-K2006
 
 ---
 
